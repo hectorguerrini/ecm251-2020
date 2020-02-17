@@ -1,0 +1,8 @@
+Aula 1 sobre git e github
+git add .
+git commit -m '<Comentario>'
+git push origin master
+git pull origin master
+git branch <nomeBranch>
+git checkout <nomeBranch>
+git merge <nomeBranch>
